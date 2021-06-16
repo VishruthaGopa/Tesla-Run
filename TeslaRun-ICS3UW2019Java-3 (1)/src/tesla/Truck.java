@@ -6,8 +6,6 @@ import processing.core.PImage;
 /**
  * {@code Truck} Class. Responsible for creating Truck objects.
  *
- * @authors Swarnava Ghosh
- * @authors Vishrutha Gopa
  */
 public class Truck extends ElectricV{
 	
