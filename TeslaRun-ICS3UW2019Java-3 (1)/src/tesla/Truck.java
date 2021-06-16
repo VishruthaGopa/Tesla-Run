@@ -7,7 +7,7 @@ import processing.core.PImage;
  * {@code Truck} Class. Responsible for creating Truck objects.
  *
  */
-public class Truck extends ElectricV{
+public class Truck extends ElectricV {
 	
     /**
      * Constructor to intialize the {@link Truck}'s values to appropiate parameters
