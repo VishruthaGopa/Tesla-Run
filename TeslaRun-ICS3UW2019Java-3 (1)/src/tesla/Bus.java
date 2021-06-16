@@ -6,7 +6,6 @@ import processing.core.PImage;
 /**
  * {@code Bus} Class. Responsible for creating Bus objects.
  *
- * @authors Swarnava Ghosh
  * @authors Vishrutha Gopa
  */
 public class Bus extends ElectricV{
