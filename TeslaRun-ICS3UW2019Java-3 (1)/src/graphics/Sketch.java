@@ -10,8 +10,6 @@ import java.io.*;
 /**
  * Creates a GUI.
  *
- * @authors Swarnava Ghosh
- * @authors Vishrutha Gopa
  */
 public class Sketch extends PApplet {
 
