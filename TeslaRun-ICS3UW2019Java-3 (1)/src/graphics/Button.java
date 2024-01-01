@@ -5,8 +5,6 @@ import processing.core.PApplet;
 /**
  * Class for using clickable buttons on PApplet window.
  *
- * @authors Swarnava Ghosh
- * @authors Vishrutha Gopa
  */
 class Button extends Rectangle{
     
